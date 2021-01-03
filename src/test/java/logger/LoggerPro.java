@@ -12,8 +12,8 @@ public class LoggerPro {
 	// Create reference variable “log” referencing getLogger method of Logger class,
 	// it is used to store logs in log file
 	public static Logger log = Logger.getLogger("devpinoyLogger");
-	//public static Logger log = Logger.getLogger(LoggerPro.class);
-			
+	//public static Logger log = Logger.getLogger(LoggerPro.class)
+				
 	public static void main(String[] args) {
 
 		String log4jConfigFile = System.getProperty("user.dir")

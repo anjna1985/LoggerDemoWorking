@@ -15,7 +15,7 @@ import org.apache.log4j.PatternLayout;
  */
 
 public class LoggerClass {
-
+	
 	public static void main(String[] args) {
 
 	    // creates pattern layout
